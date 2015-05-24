@@ -1,0 +1,18 @@
+.css-form input.ng-invalid.ng-dirty {
+
+   
+    border-color: #B00000 ;
+}
+
+.css-form input.ng-valid.ng-dirty {
+
+}
+
+
+.message {
+  color: blue;
+   font-size:25px;
+  
+   }
+
+   
